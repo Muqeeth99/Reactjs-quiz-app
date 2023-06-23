@@ -1,3 +1,11 @@
+# Final quiz page:
+![Screenshot (153)](https://github.com/Muqeeth99/Brain-Tumour-Detection-/assets/85898448/ace5271e-534b-4226-ba6b-4854dd970447)
+
+![Screenshot (152)](https://github.com/Muqeeth99/Brain-Tumour-Detection-/assets/85898448/8c82fa96-4405-466a-8d9b-1c45ddc5c6a6)
+
+![Screenshot (151)](https://github.com/Muqeeth99/Brain-Tumour-Detection-/assets/85898448/82124682-8477-4dac-95dc-fbcab3a1490d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
